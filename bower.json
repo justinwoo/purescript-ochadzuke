@@ -1,0 +1,22 @@
+{
+  "name": "purescript-ochadzuke",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justinwoo/purescript-ochadzuke.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-milkis": "^6.0.1",
+    "purescript-chirashi": "^0.1.0",
+    "purescript-simple-json": "^4.2.0"
+  },
+  "devDependencies": {
+    "purescript-assert": "^4.0.0"
+  }
+}
